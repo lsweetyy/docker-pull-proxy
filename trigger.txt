@@ -8,3 +8,4 @@ ubuntu/squid:latest registry.cn-shanghai.aliyuncs.com/ssccloudtech/squid:latest
 nginx:latest registry.cn-shanghai.aliyuncs.com/ssccloudtech/nginx:latest
 rancher/rancher:v2.5.12 registry.cn-shanghai.aliyuncs.com/ssccloudtech/rancher:v2.5.12
 rancher/rancher-agent:v2.5.12 registry.cn-shanghai.aliyuncs.com/ssccloudtech/rancher-agent:v2.5.12
+rancher/rke-tools:v0.1.78 registry.cn-shanghai.aliyuncs.com/ssccloudtech/rke-tools:v0.1.78
