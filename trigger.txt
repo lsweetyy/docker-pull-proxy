@@ -11,6 +11,4 @@ rancher/rancher-agent:v2.5.12 registry.cn-shanghai.aliyuncs.com/ssccloudtech/ran
 rancher/rke-tools:v0.1.78 registry.cn-shanghai.aliyuncs.com/ssccloudtech/rke-tools:v0.1.78
 rancher/hyperkube:v1.19.16-rancher2 registry.cn-shanghai.aliyuncs.com/ssccloudtech/hyperkube:v1.19.16-rancher2
 centos:7.9.2009 registry.cn-shanghai.aliyuncs.com/ssccloudtech/centos:7.9.2009
-paddleocr/paddleocr:latest-gpu-cuda11.8-cudnn8 registry.cn-shanghai.aliyuncs.com/ssccloudtech/paddle:2.6.0-gpu-cuda11.8-cudnn8
-paddleocr/paddleocr:latest-gpu-cuda11.8-cudnn8-slim registry.cn-shanghai.aliyuncs.com/ssccloudtech/paddle:2.6.0-gpu-cuda11.8-cudnn8-slim
-paddleocr/paddleocr:latest registry.cn-shanghai.aliyuncs.com/ssccloudtech/paddleocr:latest
+registry.baidubce.com/paddlepaddle/paddleocr:latest-gpu-cuda11.8-cudnn8 registry.cn-shanghai.aliyuncs.com/ssccloudtech/paddleocr:latest-gpu-cuda11.8-cudnn8
